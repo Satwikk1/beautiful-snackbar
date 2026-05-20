@@ -1,6 +1,6 @@
 {
   "name": "beautiful-snackbar",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A beautiful, highly customizable, animated snackbar for React Native.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
