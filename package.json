@@ -1,6 +1,6 @@
 {
   "name": "beautiful-snackbar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A beautiful, highly customizable, animated snackbar for React Native.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -14,10 +14,21 @@
   "private": true,
   "keywords": [
     "react-native",
+    "expo",
     "snackbar",
     "toast",
     "notification",
-    "animated"
+    "animated",
+    "keyboard-aware",
+    "safe-area",
+    "reanimated-free",
+    "singleton",
+    "banner",
+    "ui",
+    "custom-ui",
+    "ios",
+    "android",
+    "typescript"
   ],
   "author": "",
   "license": "MIT",
