@@ -13,7 +13,7 @@
     "prepublishOnly": "cp README_NPM.md README.md",
     "postpublish": "git checkout README.md"
   },
-  "private": false,
+  "private": true,
   "keywords": [
     "react-native",
     "expo",
