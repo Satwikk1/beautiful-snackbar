@@ -1,6 +1,6 @@
 {
   "name": "beautiful-snackbar",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A beautiful, highly customizable, animated snackbar for React Native.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -13,7 +13,7 @@
     "prepublishOnly": "cp README_NPM.md README.md",
     "postpublish": "git checkout README.md"
   },
-  "private": true,
+  "private": false,
   "keywords": [
     "react-native",
     "expo",
