@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "commonjs",
+    "lib": ["esnext", "dom"],
+    "allowJs": true,
+    "jsx": "react-native",
+    "declaration": true,
+    "outDir": "./lib",
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "baseUrl": ".",
+    "paths": {
+      "react": ["example/node_modules/react"],
+      "react-native": ["example/node_modules/react-native"]
+    }
+  },
+  "include": ["src"]
+}
