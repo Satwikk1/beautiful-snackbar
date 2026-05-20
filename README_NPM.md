@@ -7,8 +7,8 @@ A lightweight, premium, highly customizable, and **Reanimated-free** notificatio
   <div style="background-color: #1e1e2e; border: 1px solid #313244; padding: 20px; border-radius: 12px; max-width: 580px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
     <p style="color: #cdd6f4; font-family: sans-serif; font-size: 14px; margin-bottom: 12px; font-weight: bold;">📸 Screenshots</p>
     <div style="display: flex; flex-direction: row; justify-content: center; gap: 10px; margin-bottom: 16px; flex-wrap: wrap;">
-      <img width="260" alt="Screenshot 1" src="https://github.com/user-attachments/assets/22e81863-c46b-414a-9ef4-b8a17ef1caf2" style="border-radius: 8px; border: 1px solid #45475a;" />
-      <img width="260" alt="Screenshot 2" src="https://github.com/user-attachments/assets/3cb11aad-3b7b-4839-a172-cf303e8b22e8" style="border-radius: 8px; border: 1px solid #45475a;" />
+      <img width="260" alt="Screenshot 1" src="https://github.com/user-attachments/assets/e2aa8871-b2ce-40f0-afec-6314ffedfe29" style="border-radius: 8px; border: 1px solid #45475a;" />
+      <img width="260" alt="Screenshot 2" src="https://github.com/user-attachments/assets/1b443ba7-919a-4fa3-9b6c-c08cbc8102b9" style="border-radius: 8px; border: 1px solid #45475a;" />
     </div>
     <div style="background-color: #11111b; padding: 12px; border-radius: 8px; border: 1px dashed #45475a;">
       <a href="https://github.com/Satwikk1/beautiful-snackbar" target="_blank" style="color: #cdd6f4; text-decoration: none; font-family: sans-serif; font-size: 13px; font-weight: bold;">
