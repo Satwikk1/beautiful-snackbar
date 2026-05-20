@@ -4,6 +4,10 @@
   "description": "A beautiful, highly customizable, animated snackbar for React Native.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satwikk1/beautiful-snackbar.git"
+  },
   "scripts": {
     "build": "tsc"
   },

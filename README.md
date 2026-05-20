@@ -209,6 +209,7 @@ snackbar.show({
 To inspect the package interactively, run the local Expo example app:
 
 1. **Clone and Install dependencies:**
+   Ensure `"private": true` is set in the root `package.json` before running `yarn` (this is required to prevent Yarn workspace resolution conflicts).
    ```bash
    yarn install
    ```
