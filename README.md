@@ -217,13 +217,13 @@ To inspect the package interactively, run the local Expo example app:
 
 2. **Build the parent library:**
    ```bash
-   yarn build
+   yarn run build
    ```
 
 3. **Start the Expo development server:**
    ```bash
    cd example
-   yarn start
+   npx expo start
    ```
 
 4. Press `i` to open in iOS simulator, or `a` to open in Android.
