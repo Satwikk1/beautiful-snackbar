@@ -1,6 +1,6 @@
 {
   "name": "beautiful-snackbar",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A beautiful, highly customizable, animated snackbar for React Native.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -9,7 +9,9 @@
     "url": "git+https://github.com/Satwikk1/beautiful-snackbar.git"
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepublishOnly": "cp README_NPM.md README.md",
+    "postpublish": "git checkout README.md"
   },
   "private": true,
   "keywords": [
