@@ -6,7 +6,7 @@ A lightweight, premium, highly customizable, and **Reanimated-free** notificatio
   <br />
   <!-- PLACEHOLDER FOR DEMO VIDEO / GIF -->
   <div style="background-color: #1e1e2e; border: 1px solid #313244; padding: 20px; border-radius: 12px; max-width: 480px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-    <p style="color: #cdd6f4; font-family: sans-serif; font-size: 14px; margin-bottom: 8px; font-weight: bold;">📺 Interactive Demo Video / GIF</p>
+    <p style="color: #cdd6f4; font-family: sans-serif; font-size: 14px; margin-bottom: 8px; font-weight: bold;">📺 Interactive Demo</p>
     <div style="background-color: #11111b; height: 320px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #a6adc8; border: 1px dashed #45475a;">
       <p style="font-family: sans-serif; font-size: 13px;">[Insert Demo GIF or Video link here]</p>
     </div>
